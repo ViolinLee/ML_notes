@@ -1,7 +1,7 @@
 ### Algorithm  
 - [AI算法工程师](http://www.huaxiaozhuan.com/) 华校专   
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) floodsung
-
+- [ml-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 
 ### Notes
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)   josephmisiti
