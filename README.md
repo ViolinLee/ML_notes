@@ -1,8 +1,8 @@
 ### Algorithm  
 - [AI算法工程师](http://www.huaxiaozhuan.com/) 华校专   
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) 
-- [ml-cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
-- [machinelearning](https://github.com/ljpzzz/machinelearning) 
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)  floodsung
+- [ml-cheatsheet-Docs](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html) /  [ml-cheatsheet](https://github.com/bfortuner/ml-cheatsheet/) bfortuner
+- [machinelearning](https://github.com/ljpzzz/machinelearning) ljpzzz  
 
 ### Notes
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)   josephmisiti
@@ -22,7 +22,9 @@
 - [TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course) astorfi
 - [《动手学深度学习》](https://github.com/d2l-ai/d2l-zh) d2l-ai
 - [practical-pytorch](https://github.com/spro/practical-pytorch) spro
-- [Keras resources](https://github.com/fchollet/keras-resources)
+- [Keras resources](https://github.com/fchollet/keras-resources)   
+- [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) justmarkham   
+- [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial)   jakevdp
 
 
 
@@ -35,6 +37,13 @@
 ### Forum / Community
 
 
+
+
+
+
+### Tool / API   
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)   
+- [scikit-learn-doc-zh](https://github.com/apachecn/scikit-learn-doc-zh)
 
 
 
